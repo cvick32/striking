@@ -1,9 +1,0 @@
-A>E>G>D>C>B>H>F
-C~F~H>D>G>A>B~E
-A>B>C>D>E>G>F>H
-H>D>E>F>A>C>G>B
-H>E>C>B>A>G>F>D
-C~G~B>E>H>F>A>D
-F~C>D>B~G>A>E~H
-B>G>C>D>F>H>E>A
-C>E>B>G>F>H>D>A
