@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  7 NOV 2018 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  14 NOV 2018 12:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1345,7 +1345,7 @@ LaTeX Info: Redefining \nameref on input line 79.
 \openout4 = `Strikes.out'.
 
  ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for OT1+jkp on input line 97.
+LaTeX Font Info:    Try loading font information for OT1+jkp on input line 92.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
@@ -1354,101 +1354,134 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `jkp' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for U+jkpsya on input line 97.
+LaTeX Font Info:    Try loading font information for U+jkpsya on input line 92.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/kpfonts/ujkpsya.fd
 File: ujkpsya.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 97.
+LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 92.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/kpfonts/ujkpsyb.fd
 File: ujkpsyb.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+jkpmia on input line 97.
+LaTeX Font Info:    Try loading font information for U+jkpmia on input line 92.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/kpfonts/ujkpmia.fd
 File: ujkpmia.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 97.
+LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 92.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 ) [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 <./images/1/verystart.png, id=41, 438.63875pt x 438.63875pt>
 File: ./images/1/verystart.png Graphic file (type png)
 <use ./images/1/verystart.png>
-Package pdftex.def Info: ./images/1/verystart.png  used on input line 115.
+Package pdftex.def Info: ./images/1/verystart.png  used on input line 132.
 (pdftex.def)             Requested size: 170.72037pt x 170.72037pt.
 <./images/1/heavystriking.png, id=43, 435.6275pt x 436.63126pt>
 File: ./images/1/heavystriking.png Graphic file (type png)
 <use ./images/1/heavystriking.png>
-Package pdftex.def Info: ./images/1/heavystriking.png  used on input line 118.
+Package pdftex.def Info: ./images/1/heavystriking.png  used on input line 137.
 (pdftex.def)             Requested size: 170.71164pt x 170.7119pt.
 File: ./images/1/heavystriking.png Graphic file (type png)
 <use ./images/1/heavystriking.png>
-Package pdftex.def Info: ./images/1/heavystriking.png  used on input line 121.
+Package pdftex.def Info: ./images/1/heavystriking.png  used on input line 140.
 (pdftex.def)             Requested size: 170.71164pt x 170.7119pt.
 <./images/1/graph1.png, id=44, 400.49625pt x 302.12875pt>
 File: ./images/1/graph1.png Graphic file (type png)
 <use ./images/1/graph1.png>
-Package pdftex.def Info: ./images/1/graph1.png  used on input line 127.
+Package pdftex.def Info: ./images/1/graph1.png  used on input line 143.
 (pdftex.def)             Requested size: 170.71892pt x 170.71689pt.
 <./images/2/start.png, id=45, 440.64626pt x 438.63875pt>
 File: ./images/2/start.png Graphic file (type png)
 <use ./images/2/start.png>
-Package pdftex.def Info: ./images/2/start.png  used on input line 130.
+Package pdftex.def Info: ./images/2/start.png  used on input line 148.
 (pdftex.def)             Requested size: 170.71503pt x 170.72037pt.
 <./images/2/middle.png, id=46, 436.63126pt x 436.63126pt>
 File: ./images/2/middle.png Graphic file (type png)
 <use ./images/2/middle.png>
-Package pdftex.def Info: ./images/2/middle.png  used on input line 133.
+Package pdftex.def Info: ./images/2/middle.png  used on input line 151.
 (pdftex.def)             Requested size: 170.7119pt x 170.7119pt.
 <./images/2/end.png, id=47, 437.635pt x 438.63875pt>
 File: ./images/2/end.png Graphic file (type png)
 <use ./images/2/end.png>
-Package pdftex.def Info: ./images/2/end.png  used on input line 138.
+Package pdftex.def Info: ./images/2/end.png  used on input line 154.
 (pdftex.def)             Requested size: 170.71703pt x 170.72037pt.
 <./images/2/graph2.png, id=48, 401.5pt x 301.125pt>
 File: ./images/2/graph2.png Graphic file (type png)
 <use ./images/2/graph2.png>
-Package pdftex.def Info: ./images/2/graph2.png  used on input line 141.
+Package pdftex.def Info: ./images/2/graph2.png  used on input line 160.
 (pdftex.def)             Requested size: 170.71794pt x 170.72406pt.
- [3] [4 <./images/1/verystart.png> <./images/1/heavystriking.png>] [5 <./images
-/1/graph1.png> <./images/2/start.png> <./images/2/middle.png>] [6 <./images/2/e
-nd.png> <./images/2/graph2.png>] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
+<./images/2/brookings.png, id=49, 814.04124pt x 500.87125pt>
+File: ./images/2/brookings.png Graphic file (type png)
+<use ./images/2/brookings.png>
+Package pdftex.def Info: ./images/2/brookings.png  used on input line 163.
+(pdftex.def)             Requested size: 284.52121pt x 170.71431pt.
+ [4 <./images/1/verystart.png>] [5 <./images/1/heavystriking.png> <./images/1/g
+raph1.png>] [6 <./images/2/start.png> <./images/2/middle.png> <./images/2/end.p
+ng>]
+[7 <./images/2/graph2.png> <./images/2/brookings.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+[8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
  (./Strikes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
-Package rerunfilecheck Info: File `Strikes.out' has not changed.
-(rerunfilecheck)             Checksum: 87CE6647AF7BE562613FC55184C044E6;238.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+
+
+Package rerunfilecheck Warning: File `Strikes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Strikes.out':
+(rerunfilecheck)             Before: 69F6DA8DBE9252C0FD7FA2055B93AA23;204
+(rerunfilecheck)             After:  9524819E4BC06D4D432005EEA3581F0E;353.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
  ) 
 Here is how much of TeX's memory you used:
- 21684 strings out of 492649
- 396038 string characters out of 6129622
+ 21698 strings out of 492649
+ 396232 string characters out of 6129622
  496130 words of memory out of 5000000
- 25075 multiletter control sequences out of 15000+600000
- 22391 words of font info for 100 fonts, out of 8000000 for 9000
+ 25078 multiletter control sequences out of 15000+600000
+ 22689 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,54p,1526b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,7n,54p,1525b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive
 /2018/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/201
 8/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb></usr/local/texlive/2018/texm
 f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/
 fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Strikes.pdf (7 pages, 225742 bytes).
+Output written on Strikes.pdf (8 pages, 750040 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
- 6744 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 25 named destinations out of 1000 (max. 500000)
+ 6741 words of extra memory for PDF output out of 10000 (max. 10000000)
 
